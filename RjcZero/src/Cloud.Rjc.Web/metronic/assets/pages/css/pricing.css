@@ -4,7 +4,8 @@ Pricing Table 1
 ***/
 .pricing-content-1 {
   background-color: #fff; }
-  .pricing-content-1:before, .pricing-content-1:after {
+  .pricing-content-1:before,
+  .pricing-content-1:after {
     content: " ";
     display: table; }
   .pricing-content-1:after {
