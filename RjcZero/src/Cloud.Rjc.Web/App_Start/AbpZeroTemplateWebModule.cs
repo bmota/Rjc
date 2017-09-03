@@ -61,6 +61,8 @@ namespace Cloud.Rjc.Web
 
             //Uncomment this line to use Redis cache instead of in-memory cache.
             //Configuration.Caching.UseRedis();
+
+            //Configuration.Modules.AbpWeb().AntiForgery.IsEnabled = false;
         }
 
         public override void Initialize()
