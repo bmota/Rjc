@@ -215,7 +215,7 @@
     <EmbeddedResource Include="Localization\AbpZeroTemplate\AbpZeroTemplate-tr.xml">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Localization\AbpZeroTemplate\AbpZeroTemplate.xml">
+    <EmbeddedResource Include="Localization\AbpZeroTemplate\AbpZeroTemplate-en-US.xml">
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
@@ -230,6 +230,7 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Localization\AbpZeroTemplate\AbpZeroTemplate-es.xml" />
+    <EmbeddedResource Include="Localization\AbpZeroTemplate\AbpZeroTemplate.xml" />
     <Content Include="Localization\AbpZeroTemplate\READ_ME.txt" />
     <EmbeddedResource Include="Emailing\EmailTemplates\default.html" />
   </ItemGroup>
